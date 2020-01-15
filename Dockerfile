@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-MAINTANER TeamStudy <dlqpdlzhfldk2020@gmail.com>
+MAINTAINER TeamStudy <dlqpdlzhfldk2020@gmail.com>
 
 RUN apt-get update -y && \
     apt-get install -y python-pip python-dev
